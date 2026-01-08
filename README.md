@@ -14,3 +14,13 @@ As the initial boards are built incorrect, software SPI is needed to configure t
 - Fix the README
 - Fix the LICENSES
 - XLate to CPP
+
+# Sources
+For brevity, I'm adding my reference sources
+
+For ADF4351 code:
+- https://github.com/s54mtb/ADF4351/
+
+For Software SPI code:
+- https://github.com/Alex2269/stm32_soft_spi/tree/master/stm32_software_spi
+- Various others....

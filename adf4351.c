@@ -9,6 +9,8 @@
 #include "SoftwareSPI.h"
 #include <math.h>
 
+
+// Gathered from the ADF435x software from Analog Devices: https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/eval-adf4351.html#eb-relatedsoftware
 #define R0_TEST 0x00418008	// 0000 0000 0100 0001 1000 0000 0000 1000	 ALL MSB FIRST TX
 #define R1_TEST 0x08008029	// 0000 1000 0000 0000 1000 0000 0010 1001
 #define R2_TEST 0x00004E42	// 0000 0000 0000 0000 0100 1110 0100 0010		
